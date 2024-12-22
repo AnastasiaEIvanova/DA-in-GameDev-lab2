@@ -193,12 +193,6 @@ public class NewEmptyCSharpScript : MonoBehaviour
 ## Выводы
 Я научилась взаимодействовать с API Google таблиц, научилась взаимодействовать с данными с помощью API и читать их из Unity, разработала простейшую программу, позволяющую воспроизводить здоровье.
 
-| Plugin | README |
-| ------ | ------ |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Visual Studio| [plugins/visualstudio/README.md][PlGh] |
-| Unity | [plugins/unity/README.md][PlMe] |
-
 ## Powered by
 
 **BigDigital Team: Denisov | Fadeev | Panov**
